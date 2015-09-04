@@ -7,7 +7,7 @@
 -  <a href="http://python27test.sinaapp.com"> 我是主页君(◕ˇ∀ˇ◕）请点我  </a>  
 
 ## /dearoa -----------------教学自动化平台
->课程作业提交平台网址：**<a href="http:/http://dearoa.sinaapp.com/" target="_blank">请点我</a>**
+>课程作业提交平台网址：**<a href="http://dearoa.sinaapp.com/" target="_blank">请点我</a>**
 
 
 ## /mcm ---------------数学建模
