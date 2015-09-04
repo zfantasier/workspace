@@ -4,9 +4,14 @@
 
 - 作者 : 赵昊
 
-- <a href="http:/github.com/zfantasier/workspace/index.html" target="_blank">我是主页君，请点我</a>
+-  <a href="http://python27test.sinaapp.com"> 我是主页君(◕ˇ∀ˇ◕）请点我  </a>  
 
-## scrapy 爬虫学习 ##
+## /dearoa -----------------教学自动化平台
+>课程作业提交平台网址：**<a href="http:/http://dearoa.sinaapp.com/" target="_blank">请点我</a>**
+## /mcm ---------------数学建模
+## /myfirst_scrapy-------------------*python爬虫学习*
+
+
 #  2015.8.28 scrapy环境的搭建    #
 - 完成时长 大于 5 小时
 
@@ -23,6 +28,9 @@
 - [3] 	安装scrapy  
       	在终端输入 pip install scrapy 自动安装，如果中间报错，则可能出现python包不完整的情况  
 	在终端执行 sudo apt-get install python-dev 输入root密码，安装完整的py库就可以安装scrapy了  
+
+#  scrapy的学习  #
+
 
 
 

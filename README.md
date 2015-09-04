@@ -4,12 +4,12 @@
 
 - 作者 : 赵昊
 
-- <a href="http://python27test.sinaapp.com>我是主页君，请点我</a>  
+-  <a href="http://python27test.sinaapp.com"> 我是主页君(◕ˇ∀ˇ◕）请点我  </a>  
 
-## /dearoa     
-课程作业提交平台*<a href="http:/http://dearoa.sinaapp.com/" target="_blank">请点我</a>*
-## /mcm 数学建模
-## /myfirst_scrapy  python爬虫学习 ##
+## /dearoa -----------------教学自动化平台
+>课程作业提交平台网址：**<a href="http:/http://dearoa.sinaapp.com/" target="_blank">请点我</a>**
+## /mcm ---------------数学建模
+## /myfirst_scrapy-------------------*python爬虫学习*
 
 
 #  2015.8.28 scrapy环境的搭建    #
