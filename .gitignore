@@ -3,8 +3,7 @@ __pycache__/
 *.py[cod]
 
 #mydy
-*.md~
-*.*~
+＊~
 
 # C extensions
 *.so
