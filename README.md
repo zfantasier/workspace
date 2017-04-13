@@ -9,6 +9,7 @@
 ## ------/python_web  人网站：django 大型项目:Tornado框架的学习记录
 ## ------/codeforces    有关 Codeforces日常编程比赛的内容
 ## ------/data_struct   根据清华大学教材，存留自用的数据结构模板（C++版本）
+## ------/Quantum_Machanics  翻译狄拉克的<<量子力学原理>>（英文原版，第四版，附原书pdf文件）
 
 
 
